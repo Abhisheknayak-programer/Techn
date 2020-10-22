@@ -8,7 +8,6 @@ import About from "./About";
 import Contact from "./Contact";
 import Navbar from "./Navbar";
 import Blogs from "./Blogs";
-// import Error from "./Error";
 import Login from "../src/Signup/Login";
 import Sign_up from "../src/Signup/Signup";
 
@@ -26,7 +25,6 @@ const App = () =>{
             <Route exact path = "/login" component={Login}></Route>
             <Route exact path = "/sign" component={Sign_up}></Route>
             <Route exact path = "/contact" component={Contact}></Route>
-<!--             <Route exact path = "/error" component={Error}></Route> -->
         </Switch>
         </>
     )
