@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/Techn/static/css/main.5c2b4c6f.chunk.css",
-    "main.js": "/Techn/static/js/main.87341f6c.chunk.js",
-    "main.js.map": "/Techn/static/js/main.87341f6c.chunk.js.map",
+    "main.js": "/Techn/static/js/main.4064c21b.chunk.js",
+    "main.js.map": "/Techn/static/js/main.4064c21b.chunk.js.map",
     "runtime-main.js": "/Techn/static/js/runtime-main.da59d441.js",
     "runtime-main.js.map": "/Techn/static/js/runtime-main.da59d441.js.map",
     "static/css/2.75c4ecca.chunk.css": "/Techn/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.4725363e.chunk.js": "/Techn/static/js/2.4725363e.chunk.js",
-    "static/js/2.4725363e.chunk.js.map": "/Techn/static/js/2.4725363e.chunk.js.map",
+    "static/js/2.05a71974.chunk.js": "/Techn/static/js/2.05a71974.chunk.js",
+    "static/js/2.05a71974.chunk.js.map": "/Techn/static/js/2.05a71974.chunk.js.map",
     "index.html": "/Techn/index.html",
-    "precache-manifest.d399d76f7e4959f5c971e08db0734a9e.js": "/Techn/precache-manifest.d399d76f7e4959f5c971e08db0734a9e.js",
+    "precache-manifest.9146688f71e88b96e3a9de6328dc1489.js": "/Techn/precache-manifest.9146688f71e88b96e3a9de6328dc1489.js",
     "service-worker.js": "/Techn/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/Techn/static/css/2.75c4ecca.chunk.css.map",
     "static/css/main.5c2b4c6f.chunk.css.map": "/Techn/static/css/main.5c2b4c6f.chunk.css.map",
-    "static/js/2.4725363e.chunk.js.LICENSE.txt": "/Techn/static/js/2.4725363e.chunk.js.LICENSE.txt",
+    "static/js/2.05a71974.chunk.js.LICENSE.txt": "/Techn/static/js/2.05a71974.chunk.js.LICENSE.txt",
     "static/media/cartoon 3.svg": "/Techn/static/media/cartoon 3.0b905b27.svg",
     "static/media/contact.svg": "/Techn/static/media/contact.64fb8a6c.svg",
     "static/media/drone.jpg": "/Techn/static/media/drone.3b78283f.jpg",
-    "static/media/error.svg": "/Techn/static/media/error.6695af99.svg",
     "static/media/index.css": "/Techn/static/media/img1.fa273686.jpg",
     "static/media/launcher.svg": "/Techn/static/media/launcher.d043e42e.svg",
     "static/media/ml.png": "/Techn/static/media/ml.c2cff6e9.png",
@@ -35,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.da59d441.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.4725363e.chunk.js",
+    "static/js/2.05a71974.chunk.js",
     "static/css/main.5c2b4c6f.chunk.css",
-    "static/js/main.87341f6c.chunk.js"
+    "static/js/main.4064c21b.chunk.js"
   ]
 }

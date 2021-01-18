@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b57a820252661b95602b11aa7dbd503",
+    "revision": "fb33a9c651347cd96d3781e6babde064",
     "url": "/Techn/index.html"
   },
   {
-    "revision": "9a365d1696bec9aa2af2",
+    "revision": "f283f34a02d10a5fccb5",
     "url": "/Techn/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "2aa03f07450a56bcec55",
+    "revision": "36412aa9b418f4afc37a",
     "url": "/Techn/static/css/main.5c2b4c6f.chunk.css"
   },
   {
-    "revision": "9a365d1696bec9aa2af2",
-    "url": "/Techn/static/js/2.4725363e.chunk.js"
+    "revision": "f283f34a02d10a5fccb5",
+    "url": "/Techn/static/js/2.05a71974.chunk.js"
   },
   {
     "revision": "361388382a7cba0b7cd58ae9b81faa0e",
-    "url": "/Techn/static/js/2.4725363e.chunk.js.LICENSE.txt"
+    "url": "/Techn/static/js/2.05a71974.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2aa03f07450a56bcec55",
-    "url": "/Techn/static/js/main.87341f6c.chunk.js"
+    "revision": "36412aa9b418f4afc37a",
+    "url": "/Techn/static/js/main.4064c21b.chunk.js"
   },
   {
     "revision": "f2816230315708c8b24d",
@@ -38,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3b78283fcdbcf93228cae93937281ae9",
     "url": "/Techn/static/media/drone.3b78283f.jpg"
-  },
-  {
-    "revision": "6695af9986412e75985538255ca87866",
-    "url": "/Techn/static/media/error.6695af99.svg"
   },
   {
     "revision": "fa2736864110935bc2d3a99087882864",
